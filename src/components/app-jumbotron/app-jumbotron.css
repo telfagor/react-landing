@@ -1,0 +1,20 @@
+.jumbotron-size {    
+    box-sizing: border-box;
+    background: url(../../images/fon.jpg) no-repeat;
+    background-size: 100% ;
+    width: 1110px;
+    margin: 20px auto 20px;
+}
+
+.button-style {
+    background-color: #0D0D53;
+    box-shadow: 1px 1px 1px #869A95;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px; 
+}
+
+[alt="author"] {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}

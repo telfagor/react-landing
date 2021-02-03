@@ -1,0 +1,23 @@
+.social-icon {
+    color: #fff;
+    font-size: 40px;
+    cursor: pointer;
+    padding-left: 10px;    
+}
+
+.social-icon:hover {
+    color: #D8CDFF;
+}
+
+.social-icon:active {
+    color: #37FCFF;
+}
+
+
+.text-decoration:hover {
+    font-weight: bold;   
+    border-top: 1px dashed #fff;
+    border-bottom: 1px dashed #fff;
+  
+    
+}

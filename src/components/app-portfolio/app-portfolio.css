@@ -1,0 +1,23 @@
+.container-top {
+    margin: 25px 0 0 395px;
+}
+
+[style] {
+    border: 1px solid black;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 14rem;
+    transition-duration: 2s;
+    z-index: 1;
+}
+
+[style]:active {    
+    transition: transform 2s;
+    transform: scale(1.5);
+    z-index: 2;
+}
+
+
+
+
+
